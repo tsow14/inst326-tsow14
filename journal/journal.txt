@@ -1,0 +1,13 @@
+/* This week AI has my assitant in gathering information for my classes and assignments. 
+I had recently discovered a website called notebook.lm. It is an AI assistant that breaks 
+down the information from readings and articles then allows you to ask questions straight from the text.
+The most helpful part about it is that it only pulls from the text information. It will even cite the part 
+of the text that it is talking about. 
+
+https://notebooklm.google.com/notebook/e59a5baf-5196-4566-8348-b9823feedaf5
+
+Chat is usually my main go to for with explanations such as concepts mentioned in class that I did not have 
+a handle on:
+https://chatgpt.com/share/68c4b674-77e4-8004-9b9e-2ed359dfc501
+
+*/
