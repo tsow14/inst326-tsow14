@@ -1,4 +1,9 @@
-/* This week AI has my assitant in gathering information for my classes and assignments. 
+Tidjani Sow
+
+/*
+Entry #1
+
+ This week AI has my assitant in gathering information for my classes and assignments. 
 I had recently discovered a website called notebook.lm. It is an AI assistant that breaks 
 down the information from readings and articles then allows you to ask questions straight from the text.
 The most helpful part about it is that it only pulls from the text information. It will even cite the part 
@@ -10,4 +15,32 @@ Chat is usually my main go to for with explanations such as concepts mentioned i
 a handle on:
 https://chatgpt.com/share/68c4b674-77e4-8004-9b9e-2ed359dfc501
 
+
+Entry #2 - 9/18
+
+On this day, I was invited to the Pensa Bible Study by some of my friends. As I am Muslim, I was very interested in 
+getting to know more about Christianity. Going into the study, I brought notes but then they started reading bible verses.
+I asked Chat to pull up the verses for me as well as ask for similiarites from the Quran to see where our lessons and understandings align.
+Genuinely it was helpful to be able to pull the verses in real time and compare them to the Quran
+
+https://chatgpt.com/share/68d0ac8d-b5f4-8004-af88-9a614b0a3aac
+
+
+
+Entry #3 - 9/19
+
+Jummuah is a special friday prayer for Muslims. We are asked to pray in congregation at the Mosque, but due to school some of
+us are unable to make it to the Mosque at the time. A group of Muslims in my class decided to pray Jummuah in ESJ, and with every prayer there is
+a Khutbah where one person speaks on a topic and connects it to verses in the quran. Before the prayer, I asked Chat to help me build one.
+I took notes and adapted it into my own Khutbah along with personal anecdotes and prayers.
+
+https://chatgpt.com/share/68d0ae2a-5014-8004-994d-08391fde4010
+
+
+Entry #4 - 9/21
+
+I was listening to songs that were in my parent's langugage "Wolof" and was trying to find the lyrics. I got curious and wanted to ask Chat
+if it could develop the lyrics for me, but unfortunately it could not.
+
+https://chatgpt.com/share/68d0b00b-963c-8004-ba7e-a6e383b6a256
 */
