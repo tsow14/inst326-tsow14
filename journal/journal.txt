@@ -43,4 +43,36 @@ I was listening to songs that were in my parent's langugage "Wolof" and was tryi
 if it could develop the lyrics for me, but unfortunately it could not.
 
 https://chatgpt.com/share/68d0b00b-963c-8004-ba7e-a6e383b6a256
+
+
+
+Entry #5 - 9/23
+
+On this day, I had attended the Bethel Campus Fellowship Bible Study with my friends. It was a QA session with
+thier panel so that people could learn more about Christianity. Since I'm not super knowledgable, I used Chat to help
+me form questions and to answer questions I had as they talked. It as truly eye-opening and I was able to use Chat
+to cross reference the information I knew about Islam with the information I was gaining.
+
+https://chatgpt.com/share/68da2b83-8db0-8004-a237-264ad52e05be
+
+
+
+Entry #6 - 9/25
+
+For one of my classes, we were tasked with using AI to create images of buisness ideas that were bound to fail
+I made use of Microsoft Copilot to create my idea in an anime style, and it was very intersting to see how powerful
+the image generation was.
+
+https://copilot.microsoft.com/shares/c7Gse8VzhmovaP7Voeu5B
+
+
+Entry #7 - 9/28
+
+Going through the exercercises for this week, I had to refresh my memory on how to work through lists as 
+a lot of the functions had to deal with iteration. Chat was able to give a quick little crash course, and 
+it really helped as I felt myself flowing through the excercises afterwards.
+
+https://chatgpt.com/share/68da2d6c-fee0-8004-b960-fb243cb0a515
+
+
 */
