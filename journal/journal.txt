@@ -75,4 +75,28 @@ it really helped as I felt myself flowing through the excercises afterwards.
 https://chatgpt.com/share/68da2d6c-fee0-8004-b960-fb243cb0a515
 
 
+Entry #8 - 10/30
+
+After attending the career fair on Tuesday, I had the motivation to use copilot to develop some tips and advice 
+for interviews. It was able to develop a solid prep plan, and even practice for the next time I get a chance
+at a tech interview.
+
+https://copilot.microsoft.com/shares/uLNL8dRnfDu8FmZngT4Tm
+
+Entry #9 - 10/3
+
+My cousin had blessed me with a scooter this school year, but unfortunately, I had crashed and the backwheel
+had become dislodged. I thought it was unfixable, but I turned to ChatGPT to assist me. The chats allowed to 
+start figuring out where to start to retighten the axel. 
+
+https://chatgpt.com/share/68e21cbc-e370-8004-97ff-e73dcbf6a1e5
+
+Entry #10 - 10/4
+I was invited to my friends birthday suprise, and I wanted to introduce a game to them. It's called "Middle Ground".
+Its a game where people argue controversial topics and can sub out the representative for the argument if they feel like
+they are not doing well. To be able to get some topics, I asked ChatGPT to develop some topics for me and we
+were able to get into heavy discourse.
+
+https://chatgpt.com/share/68e21502-72e4-8004-9ba4-6193aacde43f
+
 */
