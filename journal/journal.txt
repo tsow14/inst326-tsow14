@@ -122,4 +122,29 @@ For one of my assingments, we were told to go out into the world and take pictur
 not too keen on what qualifies, so I asked Chat to give me some examples of what to take a picture of.
 
 https://chatgpt.com/share/68ec5776-5440-8004-894f-7d44f9f47bda
+
+Entry #14 - 10/20
+
+One of my weekly assingments is develop an exit ticket for the things we learned in class, althought I felt as though my notes were lacking.
+I chose to ask copilot to break down the 5 Ws for each topic I was going to talk about so that I could enhance my exit ticket. It was very helpful as
+I proceeded to ask about the history of each as well.
+
+https://copilot.microsoft.com/shares/tiNpqAEbbUWop4Z8bw78R
+
+
+Entry #15 - 10/22
+
+There was a song that I found on Tiktok but I could not find it again thinking I had it in my likes or favorites. It was genuinely bothering my soul. 
+I had to go to ChatGPT to give me a list of songs that it had released in the recent months to see if I could potentially find it, but it was just not
+possible. 
+
+https://chatgpt.com/c/68fefdb7-b454-8329-bbd4-5230430c76e0
+
+
+Entry #16 - 10/23
+
+For my Cohort Workshop, I was tasked with developing a Family Feud game for the event. Since it was late at night, I had no one else to bounce ideas off.
+I asked Chat for help and it was able to give me a lot of good ideas for the game. It was even able to develop the points for each answer and format it for me.
+
+https://chatgpt.com/share/690056f8-b354-8004-aaac-d40f39463a40
 */
