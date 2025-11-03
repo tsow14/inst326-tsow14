@@ -147,4 +147,31 @@ For my Cohort Workshop, I was tasked with developing a Family Feud game for the 
 I asked Chat for help and it was able to give me a lot of good ideas for the game. It was even able to develop the points for each answer and format it for me.
 
 https://chatgpt.com/share/690056f8-b354-8004-aaac-d40f39463a40
+
+
+Entry #17
+
+After wroking in one of my classes with Figma, I became very interested in building a Cartoon Screensaver App. I decided to
+ask Chat to help me get the plan and the foundaiton for this app. 
+
+https://chatgpt.com/share/690931e7-54b0-8004-adce-9ac7aa85a1c4
+
+Entry #18
+
+Fortunately, I was blessed with an interview for an internship that I had applied for, but I needed to some prep and some
+strategies to be able to feel prepared. Chat was able to give me some questions and some ways to talk about
+my information in the interview that would let me be my best self.
+
+https://chatgpt.com/share/690932e2-099c-8004-9022-33b7390f282c
+
+Entry #19
+
+I was buying clothes for the winter from a site that is based in the U.S, but they had outsourced their shipping to a differnt site.
+It was unfamiliar so I decided to ask Chat how trustworthy the shipping source was. I used the same chatline to take a picture of a menu
+that was in Spanish and I asked it to translate the parts of the menu that I could not understand.
+
+https://chatgpt.com/share/690935c0-04ac-8004-b31d-8a425b7c3f7f
+
+
+
 */
