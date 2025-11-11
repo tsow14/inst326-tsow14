@@ -172,6 +172,29 @@ that was in Spanish and I asked it to translate the parts of the menu that I cou
 
 https://chatgpt.com/share/690935c0-04ac-8004-b31d-8a425b7c3f7f
 
+Entry #20
+
+For SMLP, our Talent Show is our final event of the year and something that is going to take meticulous planning. After the success I had with the Family Feud Workshop, I really
+want this one to go well. I decided to start planning the flow of the show with Chat GPT. I needed the timing of the show to be mapped out first 
+so that making the actual theme and decor for everything will be a lot easier. 
+
+https://chatgpt.com/share/69128d6c-74d4-8004-a306-d2f87a1cd00f
+
+Entry #21
+
+About a year ago. I began the plans for a Clothing Brand that I had, but due to time and a change of my priorities, I put everything off. My goal is to slowly get back into and
+find a way to get momentum for this brand. I decided to ask copilot to give me resources and online tools to start looking into and focusing on
+so that I can start my studying.
+
+https://copilot.microsoft.com/shares/T6freaBS2diVVm3z1pGjN
+
+Entry #22
+
+I've recently been fascinated by generating AI images because these AI have been getting more and more powerful. I realise that a lot of them are behind a paywall, so I've chosen to find
+ones that are free and powerful. 
+
+https://copilot.microsoft.com/shares/VTH3mMtiaTTpSwRkKXfAJ
+
 
 
 */
