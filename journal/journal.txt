@@ -196,5 +196,27 @@ ones that are free and powerful.
 https://copilot.microsoft.com/shares/VTH3mMtiaTTpSwRkKXfAJ
 
 
+Entry #23
+
+My group mates were working on our 327 project and we got lost on how to make our diagrams and the relationships between our tables
+Copilot has a good image generation function so we used it to get an idea of how everything should play out. From that we were able to recreate
+everything in workbench and then start our excel file. 
+
+https://copilot.microsoft.com/shares/M1CjEn5JNLHkgjoFWLFQL
+
+Entry #24
+
+My group was tasked with developing a research paper for our final project in our 201 class 
+and I decided to use copilot to my advantage. I gave it some of our preliminary files so that it had context 
+about our project then asked it to help me develop the baseline for a outline that will help us write the project. 
+
+https://copilot.microsoft.com/shares/9A89THiAgrPmu7QMya7zm
+
+Entry #25
+
+I was playing around with AI, and I was trying to think of conversational topics that I could use to deepen my relationships.
+I also wanted to see what I could do with the questions and the ways I could take it. 
+
+https://chatgpt.com/share/691b8e8b-abec-8004-9e5f-9dd4691c79ba
 
 */
