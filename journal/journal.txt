@@ -243,4 +243,27 @@ plan but then I had to tweak it to a kid level. I also asked it to help me devel
 
 https://chatgpt.com/share/692a693c-88fc-8004-a8ae-d799d727f81f 
 
+Entry #29
+
+Recently I've had the opportunity to set up an SMLP Scavenge and Go Seek with my program. It was a mixture of Manhunt and 
+a Scavenger Hunt. I had people on my e-board carry stars throughout Campus and act as "Hiders" while the rest of the Cohort acted
+as "Seekers". It was held from Mon - Thurs of this past week. I asked Chat to help me develop some of the details and formalize it
+so I could launch the messages everyday. 
+
+https://chatgpt.com/share/6937065a-6504-8004-b298-a67844895b1e
+
+Entry #30
+
+This semester, I started playing pick-up basketball in the Eppley Center. I've been getting better but I realized I need a little more strucutre
+especially since I want to actually get good at this game. I decided to see what advice I could get from Chat. It was honestly helpful
+
+https://chatgpt.com/share/68ec56b6-f6c0-8004-bc9b-e66ca3b7b7d8
+
+Entry #31
+
+In my house, we had a big plumbin issue that genuinely had us baffled. It happened late at night, so I had to figure out what to do.
+I tried asking Chat, but there wasn't much helpful advice. We ended up solving the issue ourselves. 
+
+https://chatgpt.com/share/69370985-d9f0-8004-94ce-e85fbd002efa
+
 */
